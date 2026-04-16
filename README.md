@@ -1,4 +1,4 @@
-# UnityMCPTest
+# UnityMCP
 
 这是一个基于 Unity 的 MCP 插件项目，用于把 AI 助手和 MCP 客户端连接到 Unity 编辑器，方便进行自动化开发与编辑器交互。
 
