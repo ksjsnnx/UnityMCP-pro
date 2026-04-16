@@ -1,0 +1,53 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.csproj.user
+*.unityproj
+*.dbproj
+*.sln.iml
+*.DotSettings.user
+
+# Unity cache / logs / local settings
+[Ll]ogs/
+[Uu]serSettings/
+*.log
+*.stackdump
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Package manager cache
+Library/PackageCache/
+
+# If you generate local tooling output
+*.zip
+*.tar.gz
