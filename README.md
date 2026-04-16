@@ -31,11 +31,4 @@ MCP for Unity enables AI tools and MCP clients to interact with Unity through an
 4. 点击 **Auto-Setup** 完成桥接与客户端配置。 / Click **Auto-Setup** to configure the bridge and supported clients.
 5. 如有需要，启动桥接，然后连接你的 MCP 客户端。 / Start the bridge if needed, then connect your MCP client.
 
-## 注意事项 / Notes
 
-- `Library/`、`Logs/`、`obj/`、`Temp/` 和 `UserSettings/` 等生成目录已被忽略。 / Generated folders such as `Library/`, `Logs/`, `obj/`, `Temp/`, and `UserSettings/` are intentionally ignored.
-- 更详细的插件说明请查看 `Assets/MCPForUnity/README.md`。 / For more details, see `Assets/MCPForUnity/README.md`.
-
-## 许可证 / License
-
-如果你计划公开发布这个仓库，请在此补充项目许可证。 / Add your project license here if you plan to publish this repository publicly.
